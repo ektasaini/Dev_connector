@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://ekta123:ekta123@devconnector-khiys.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
